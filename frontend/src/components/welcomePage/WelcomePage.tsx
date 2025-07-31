@@ -22,3 +22,4 @@ const WelcomePage = (props: WelcomePageProps) => {
 };
 
 export default WelcomePage;
+
